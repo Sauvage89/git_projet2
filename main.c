@@ -9,11 +9,13 @@
 /*      8888  /____Y88b  Y88   |     Y8/      /____Y88b  Y888   | 888        */
 /*   \__88P' /      Y88b  "8__/       Y      /      Y88b  "88__/  888___     */
 /*                                                                           */
-/*       Updated: 29/01/2026 21:34:45                                        */
+/*       Updated: 29/01/2026 21:36:20                                        */
 /*       Created: 29/01/2026 00:00:00                                        */
 /*       Created by: sauvage                                                 */
 /* ------------------------------------------------------------------------- */
 #include <stdio.h>
+
+// Rabhi tu peut ajouter la fonction swap ici stp.
 
 int	main()
 {
